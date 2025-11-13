@@ -62,6 +62,8 @@ def csv_to_xlsx(csv_path: str, xlsx_path: str) -> None:
 
 csv_to_xlsx('data/samples/cities.csv', 'data/out/output.xlsx')
 ```
+### успешная конвентарция:
+
 ![img1](/images/lab5/ex5A.s.j.png)
 
 ![img2](/images/lab5/ex5A.o.c.png)
